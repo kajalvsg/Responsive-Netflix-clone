@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/kajalvsg/responsive-netflix-clone)
-  ![GitHub stars](https://img.shields.io/github/stars/kajalvsg/responsive-netflix-clone)
-  ![GitHub forks](https://img.shields.io/github/forks/kajalvsg/responsive-netflix-clone?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/kajalvsg/Responsive-Netflix-clone)
+  ![GitHub stars](https://img.shields.io/github/stars/kajalvsg/Responsive-Netflix-clone)
+  ![GitHub forks](https://img.shields.io/github/forks/kajalvsg/Responsive-Netflix-clone?style=social)
  
   <br />
 
@@ -27,13 +27,13 @@ To run **responsive-netflix-clone** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/kajalvsg/responsive-netflix-clone.git
+sudo git clone https://github.com/kajalvsg/Responsive-Netflix-clone.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/kajalvsg/responsive-netflix-clone.git
+git clone https://github.com/kajalvsg/Responsive-Netflix-clone.git
 ```
 
 
