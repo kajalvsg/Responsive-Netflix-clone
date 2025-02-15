@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/responsive-netflix-clone)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/responsive-netflix-clone)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/responsive-netflix-clone?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/kajalvsg/responsive-netflix-clone)
+  ![GitHub stars](https://img.shields.io/github/stars/kajalvsg/responsive-netflix-clone)
+  ![GitHub forks](https://img.shields.io/github/forks/kajalvsg/responsive-netflix-clone?style=social)
  
   <br />
 
@@ -10,7 +10,7 @@
 
   In this project, I have created Responsive Netflix Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="https://geeky-prashant.github.io/responsive-netflix-clone/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/kajalvsg/Responsive-Netflix-clone/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -27,13 +27,13 @@ To run **responsive-netflix-clone** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/responsive-netflix-clone.git
+sudo git clone https://github.com/kajalvsg/responsive-netflix-clone.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/responsive-netflix-clone.git
+git clone https://github.com/kajalvsg/responsive-netflix-clone.git
 ```
 
 
