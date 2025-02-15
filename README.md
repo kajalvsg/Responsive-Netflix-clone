@@ -14,10 +14,6 @@
 
 </div>
 
-### Demo Screeshots
-
-![Responsive Netflix Clone Desktop Demo](./readme-images/Responsive-Movie-Website.png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
